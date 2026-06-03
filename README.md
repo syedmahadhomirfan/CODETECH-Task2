@@ -1,3 +1,11 @@
+Name:SYED MAHADHOM IRFAN
+companyCODTECH IT SOLUTIONS
+ID: E19E86-0116588288923
+Domain:Artificial Intelligence intern
+Duration:31/05/2026 to 30/06/2026
+Mentor:Dr. Anurag Shrivastava
+
+
 # Simple Rule-Based Chatbot
 
 A lightweight Python command-line chatbot that replies to basic customer service queries using keyword matching.
