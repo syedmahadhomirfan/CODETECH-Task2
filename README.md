@@ -76,3 +76,5 @@ Bot: Goodbye! Have a pleasant day.
 - Use a natural language processing library for intent classification
 - Persist conversation history to a log file
 - Build a web or messenger interface around the chatbot
+
+<img width="1920" height="1080" alt="Screenshot 2026-06-03 143413" src="https://github.com/user-attachments/assets/87598d19-1197-4199-8c01-d87450e9f47b" />
