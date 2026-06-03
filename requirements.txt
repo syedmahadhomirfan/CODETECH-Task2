@@ -1,0 +1,3 @@
+# No external dependencies are required for this chatbot.
+# The chatbot uses only Python standard library modules.
+# Run with Python 3.7 or later.
